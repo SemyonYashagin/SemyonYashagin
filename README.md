@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**SemyonYashagin/SemyonYashagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Semyon, fullstack software .NET developer.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Backend project, support and development of new functional desktop applications for banks, automation of applied banking tasks, and support for legacy code.
+
+⚡ My technology stack
+
+  С# .NET, ASP.NET Core(MVC, WebAPI), Postman
+  REST API, RPC, Messaging
+  Asynchronous programming
+  NLog, NUnit
+  EF Core Core
+  SQL, MSSQL, T-SQL, PostgreSQL
+
+🌱 I’m currently learning
+
+  Docker, Kubernetes and other DevOps practices
+  Microservice architecture, Kafka, Redis chache, RabbitMQ
+  Parallel programming
